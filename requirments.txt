@@ -1,0 +1,4 @@
+install deepface 
+pip install deepface
+
+python version  3.7.6
